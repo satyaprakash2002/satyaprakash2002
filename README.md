@@ -9,8 +9,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Satyaprakash Sarangi</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raobaba&label=Profile%20views&color=0e75b6&style=flat" alt="raobaba" /> </p>
@@ -21,13 +21,13 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **raorajan9576@gmail.com**
+- 📫 How to reach me **sarangisatya2002@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1qhJ4J4fmHnWhCOAjVIQTdQjWq3Ooxcvv/view?usp=sharing)
+- 📄 Know about my experiences [resume]()
 
 </p>
 
-- ⚡ Fun fact **I am funny and can sing**
+- ⚡ Fact **Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid. -by Albert Einstein **
 
 
 

@@ -171,7 +171,7 @@
 
 <h2><i>Top Repositories</i></h2>
 
-<p>
+<!-- <p>
     <a href="https://github.com/raobaba/ShopEase-Ecommerce-Project">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=ShopEase-Ecommerce-Project&locale=en&border_radius=0&theme=dark" alt="raobaba" />
     </a>
@@ -191,4 +191,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Clone-SkinStore&locale=en&border_radius=0&theme=dark" alt="raobaba" />
     </a>
     
-</p>
+</p> --!>

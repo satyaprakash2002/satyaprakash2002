@@ -161,7 +161,7 @@
 <h2 align="center">My Github Stats & Streak 📊</h2>
 <div style="display: flex; flex-direction: row;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyaprakash2002&theme=shadow_red&show_icons=true" alt="raobaba" style="flex: 1; width: 50%;" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprakash2002&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="raobaba" style="flex: 1;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprakash2002&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=shadow_red" alt="raobaba" style="flex: 1;" />
 </div>
 
 

@@ -19,7 +19,7 @@
 
 - 📝 I write articles on [medium]()
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **PROGRAMMING**
 
 - 📫 How to reach me **sarangisatya2002@gmail.com**
 
